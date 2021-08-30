@@ -1,3 +1,14 @@
+About this project
+
+This application is
+
+It has following features:
+
+Target users:
+
+Key components used:
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
